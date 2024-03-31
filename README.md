@@ -18,7 +18,7 @@ This project is a simple ray tracing renderer, referring to the C++code of *[Ray
 
 `cargo run --release` 运行并等待完成。 Run and wait for completion.
 
-然后打开目录下的`pic.ppm`图片文件即可。Then open the `pic. ppm` image file in the directory.
+然后打开目录下的`pic.ppm`图片文件即可。Then open the `pic.ppm` image file in the directory.
 
 
 

@@ -1,0 +1,15 @@
+[package]
+name = "raytracer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "^0.32"
+rayon = "^1.10"
+rand = "^0.8"
+num-traits = "^0.2"
+tokio = { version = "^1.37", features = ["full"] }
+time = "0.3.34"
+indicatif = "0.17.8"

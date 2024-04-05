@@ -1,8 +1,8 @@
 # Ray Tracing in One Weekend with Rust
 
-本项目为一个简单的光线追踪渲染器，参考[《Ray Tracing in One Weekend》的C++代码](https://zhuanlan.zhihu.com/p/128685960)，用Rust实现。仅一个main.rs文件。实现了基本的漫反射、金属、玻璃材质，导出的渲染图如下。
+本项目为一个简单的光线追踪渲染器，参考[《Ray Tracing in One Weekend》的C++代码](https://zhuanlan.zhihu.com/p/128685960)，用Rust实现。仅一个main.rs文件。实现了基本的漫反射、金属、玻璃材质，导出的渲染图如下。另外，可访问下一章节：[Mario-Hero/Ray-Tracing-The-Next-Week-With-Rust](https://github.com/Mario-Hero/Ray-Tracing-The-Next-Week-With-Rust)。
 
-This project is a simple ray tracing renderer, referring to the C++code of [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html), implement using Rust. Only one *main.rs* file. Lambert, metal and glass materials have been implemented, and the exported rendering image is as follows.
+This project is a simple ray tracing renderer, referring to the C++code of [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html), implement using Rust. Only one *main.rs* file. Lambert, metal and glass materials have been implemented, and the exported rendering image is as follows. Also, you are welcomed to visit the next chapter: [Mario-Hero/Ray-Tracing-The-Next-Week-With-Rust](https://github.com/Mario-Hero/Ray-Tracing-The-Next-Week-With-Rust).
 
 <img src="./pic.jpg" style="zoom:50%;" />
 
@@ -25,4 +25,3 @@ This project is a simple ray tracing renderer, referring to the C++code of [_Ray
 ## License
 
 The project is released under MIT License.
-
